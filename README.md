@@ -1,16 +1,16 @@
-Steam游戏数据分析平台
+Steam Game Data Analysis Platform
 
-项目描述
-基于真实Steam数据的交互式数据分析仪表盘，提供多维度的游戏市场分析。该项目使用Streamlit构建，包含12个分析选项卡，涵盖市场趋势、定价策略、用户行为和多个其他维度。
+ Project Description
+An interactive data analysis dashboard based on real Steam data, providing multi-dimensional game market analysis. This project is built using Streamlit and contains 12 analysis tabs covering market trends, pricing strategies, user behavior, and multiple other dimensions.
 
-安装和运行
+Installation and Running
 
-环境要求
--Python 3.8+版本
--简化版1.33.0+
+Environment Requirements
+- Python 3.8+
+- Streamlit 1.33.0+
 
-安装步骤
-1.将项目克隆或下载到您的本地机器
-2.安装依赖项:
-   ```尝试
-   pip安装-r要求. txt
+Installation Steps
+1. Clone or download the project to your local machine
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
